@@ -1,4 +1,4 @@
-## Contrastive Learning based on Multi-Scale Hard Features for Remote Sensing Image Scene Classification
+## [Contrastive Learning based on Multi-Scale Hard Features for Remote Sensing Image Scene Classification](https://ieeexplore.ieee.org/document/10172081)
 
 ### Preparation
 
