@@ -10,7 +10,7 @@ This implementation only supports **multi-gpu**, **DistributedDataParallel** tra
 
 To do unsupervised pre-training of a ResNet-50 model on ImageNet in an 4-gpu machine, run:
 ```
-python main_moco.py \
+python main_mhcl.py \
   -a resnet50 \
   --lr 0.015 \
   --batch-size 128 \
