@@ -1,5 +1,7 @@
 ## [Contrastive Learning based on Multi-Scale Hard Features for Remote Sensing Image Scene Classification](https://ieeexplore.ieee.org/document/10172081)
 
+![image](figs/MHCL.jpg)
+
 ### Preparation
 
 Install PyTorch and ImageNet dataset following the [official PyTorch ImageNet training code](https://github.com/pytorch/examples/tree/master/imagenet).
