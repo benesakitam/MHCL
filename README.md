@@ -4,7 +4,7 @@
 
 ### Preparation
 
-Install PyTorch and ImageNet dataset following the [official PyTorch ImageNet training code](https://github.com/pytorch/examples/tree/master/imagenet).
+Install PyTorch following the [official PyTorch ImageNet training code](https://github.com/pytorch/examples/tree/master/imagenet).
 
 ### Unsupervised Training
 
