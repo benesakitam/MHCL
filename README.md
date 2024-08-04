@@ -1,6 +1,6 @@
-## [Contrastive Learning based on Multi-Scale Hard Features for Remote Sensing Image Scene Classification](https://ieeexplore.ieee.org/document/10172081)
+## Pytorch implementation of [MHCL](https://ieeexplore.ieee.org/document/10172081)
 
-![image](figs/MHCL.jpg)
+![image](https://github.com/benesakitam/MHCL/blob/main/figs/MHCL.png)
 
 ### Preparation
 
@@ -35,6 +35,20 @@ python main_lincls.py \
   --pretrained [your checkpoint path]/checkpoint_0799.pth.tar \
   --dist-url 'tcp://localhost:10001' --multiprocessing-distributed --world-size 1 --rank 0 \
   [your mlrsnet-folder with train and val folders]
+```
+
+## Citation
+Please cite this paper if it helps your research:
+```
+@article{li2023contrastive,
+  title={Contrastive learning based on multiscale hard features for remote-sensing image scene classification},
+  author={Li, Zhihao and Hou, Biao and Guo, Xianpeng and Ma, Siteng and Cui, Yanyu and Wang, Shuang and Jiao, Licheng},
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
+  volume={61},
+  pages={1--13},
+  year={2023},
+  publisher={IEEE}
+}
 ```
 
 ### Acknowledgments
